@@ -13,3 +13,29 @@ Technologies Used
 C#
 Visual Studio for application development
 .NET Framework for GUI components
+
+These are the steps on how to run library management system project C#
+
+Step 1: Download
+First, download the source code given below.
+
+Step 2: Extract file
+Second, after you finished download the source code, extract the zip file.
+
+Step 3: Open Xampp
+Third, open xampp and start the Apache and MySQL.
+
+Step 4: Open browser
+Fourth, Open a browser and go to URL “http://localhost/phpmyadmin/”.
+
+Step 5: Create database
+Fifth, click on databases tab and Create database naming “dblibrary”.
+
+Step 6: Import
+Sixth, Click on browse file and select “dblibrary.sql” file which is inside the “SchoolLibrarySystem” folder and then click “Go“.
+
+Step 7: Open Visual Studio
+Seventh, Open a Visual Studio and open the folder SchoolLibrarySystem then click the “LibrarySystem.sln“.
+
+Step 8: Start Project
+Eighth, Start the project.
